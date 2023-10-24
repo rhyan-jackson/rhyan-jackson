@@ -2,10 +2,10 @@
 - 👀 I’m interested in improvement and experience.
 - 🌱 I’m currently learning Python and Back-end tools.
 - 💞️ I’m looking to collaborate on everything that i can, because my objective is LEARN.
+- 📖 Progressing in "Engenharia de Computadores e Informática" in Universidade de Aveiro.
 - 📫 How to reach me:
-            - Email: rhyanjacksonmarinho@gmail.com
+            - Email: rhyanjacksonmarinho@gmail.com, rhyanmatos@ua.pt
             - Linkedin: https://www.linkedin.com/in/rhyan-jackson-marinho-matos-85434622a/
-
 <!---
 rhyan-jackson/rhyan-jackson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
